@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907544657306",
+    "project_id": "home-calculater-saver-ab141",
+    "storage_bucket": "home-calculater-saver-ab141.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907544657306:android:c6503096e923291d180e23",
+        "android_client_info": {
+          "package_name": "com.example.home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF27s6Axda5vmyKMTQCt3wDBNl1kwaD70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
